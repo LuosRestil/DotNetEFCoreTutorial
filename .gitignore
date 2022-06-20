@@ -352,3 +352,4 @@ MigrationBackup/
 
 .vscode
 ContosoPizza/*.db
+ContosoPizza/Promotions/*.db
